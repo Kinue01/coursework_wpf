@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "coursework.Data/1.0.0": {
+        "dependencies": {
+          "coursework.Domain": "1.0.0"
+        },
+        "runtime": {
+          "coursework.Data.dll": {}
+        }
+      },
+      "coursework.Domain/1.0.0": {
+        "runtime": {
+          "coursework.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "coursework.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "coursework.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

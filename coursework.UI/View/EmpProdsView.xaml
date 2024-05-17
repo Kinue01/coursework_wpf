@@ -1,0 +1,110 @@
+﻿<UserControl x:Class="coursework.UI.View.EmpProdsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:coursework.UI.View"
+             mc:Ignorable="d" 
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             xmlns:mahapps="http://metro.mahapps.com/winfx/xaml/controls"
+             d:DesignHeight="720" 
+             d:DesignWidth="1280">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="6*" />
+        </Grid.RowDefinitions>
+
+        <Border Background="#212529" CornerRadius="0 0 15 0" Grid.RowSpan="2" />
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock Text="Поиск по названию" Foreground="LightCyan" />
+                <TextBox Text="{Binding QueryName, UpdateSourceTrigger=PropertyChanged}">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="TextChanged">
+                            <i:InvokeCommandAction Command="{Binding FilterNameCommand}" />
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </TextBox>
+            </StackPanel>
+
+            <Grid Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="10*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Lower}" Foreground="LightCyan" />
+
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" MinWidth="270">
+                    <TextBlock Text="Поиск по цене" Foreground="LightCyan" />
+                    <mahapps:RangeSlider Height="20" Minimum="0" Maximum="1500" LowerValue="{Binding Lower}" UpperValue="{Binding Upper}">
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="LowerValueChanged">
+                                <i:InvokeCommandAction Command="{Binding FilterPriceCommand}" />
+                            </i:EventTrigger>
+                            <i:EventTrigger EventName="UpperValueChanged">
+                                <i:InvokeCommandAction Command="{Binding FilterPriceCommand}" />
+                            </i:EventTrigger>
+                            <i:EventTrigger EventName="ValueChanged">
+                                <i:InvokeCommandAction Command="{Binding FilterPriceCommand}" />
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                    </mahapps:RangeSlider>
+                </StackPanel>
+
+                <TextBlock Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Upper}" Foreground="LightCyan" />
+
+            </Grid>
+
+            <StackPanel Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="{Binding IsAdmin}">
+                <Button Style="{StaticResource WinBtn}" Command="{Binding AddProductDialog}">
+                    <StackPanel Orientation="Horizontal">
+                        <icon:PackIconMaterial Kind="Plus" VerticalAlignment="Center" />
+                        <TextBlock Text="Добавить продукт" />
+                    </StackPanel>
+                </Button>
+            </StackPanel>
+            
+        </Grid>
+
+        <DataGrid SelectedItem="{Binding CurrProduct}" Margin="0 0 20 0" Grid.Row="1" ItemsSource="{Binding Products}" Style="{DynamicResource DataGridStyle1}" CellStyle="{DynamicResource DataGridCellStyle1}" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}">
+            <DataGrid.Columns>
+                <DataGridTextColumn IsReadOnly="True" Header="Название" Binding="{Binding Path=ProductName}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Цена" Binding="{Binding Path=ProductPrice}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Белки" Binding="{Binding Path=ProductProteins}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Жиры" Binding="{Binding Path=ProductFats}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Углеводы" Binding="{Binding Path=ProductCarbohydrates}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Вес" Binding="{Binding Path=ProductWeight}" />
+                <DataGridTemplateColumn IsReadOnly="True" Header="Операции" Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Visibility="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=UserControl}, Path=DataContext.IsAdmin}" Style="{StaticResource editBtn}" Command="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=UserControl}, Path=DataContext.UpdateProdCommand}">
+                                    <icon:PackIconMaterial Kind="PencilOutline" Style="{StaticResource gridIcon}" />
+                                </Button>
+                                <Button Visibility="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=UserControl}, Path=DataContext.IsAdmin}" Style="{StaticResource removeBtn}" Command="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=UserControl}, Path=DataContext.DeleteProdCommand}">
+                                    <icon:PackIconMaterial Kind="DeleteOutline" Style="{StaticResource gridIcon}" />
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Header="Состав" Command="{Binding NavigateProdComposCommand}" />
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+        </DataGrid>
+    </Grid>
+</UserControl>

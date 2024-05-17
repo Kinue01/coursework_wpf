@@ -1,0 +1,77 @@
+C:\Users\tverd\source\repos\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.deps.json
+C:\Users\tverd\source\repos\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\source\repos\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\source\repos\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tverd\source\repos\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfoInputs.cache
+C:\Users\tverd\source\repos\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfo.cs
+C:\Users\tverd\source\repos\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tverd\source\repos\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\source\repos\coursework.Domain\obj\Debug\net8.0-windows\refint\coursework.Domain.dll
+C:\Users\tverd\source\repos\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\source\repos\coursework.Domain\obj\Debug\net8.0-windows\ref\coursework.Domain.dll
+C:\Users\admin\Desktop\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.deps.json
+C:\Users\admin\Desktop\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\admin\Desktop\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\admin\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\admin\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\refint\coursework.Domain.dll
+C:\Users\admin\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\admin\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\ref\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.deps.json
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfoInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfo.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\refint\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\ref\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.deps.json
+C:\Users\student\Desktop\coursework\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\student\Desktop\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfo.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\refint\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\student\Desktop\coursework\coursework\coursework.Domain\obj\Debug\net8.0-windows\ref\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.deps.json
+C:\Users\student\Desktop\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\student\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfo.cs
+C:\Users\student\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\refint\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\student\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\ref\coursework.Domain.dll
+C:\Users\stud\Desktop\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.deps.json
+C:\Users\stud\Desktop\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\stud\Desktop\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\stud\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfo.cs
+C:\Users\stud\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\stud\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\refint\coursework.Domain.dll
+C:\Users\stud\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\stud\Desktop\coursework\coursework.Domain\obj\Debug\net8.0-windows\ref\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.deps.json
+C:\Users\tverd\Рабочий стол\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.Domain\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tverd\Рабочий стол\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfoInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.AssemblyInfo.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.Domain\obj\Debug\net8.0-windows\refint\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.Domain\obj\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework.Domain\obj\Debug\net8.0-windows\ref\coursework.Domain.dll

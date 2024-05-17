@@ -1,0 +1,83 @@
+﻿<UserControl x:Class="coursework.UI.View.IngredsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:coursework.UI.View"
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" d:DesignWidth="1280">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="7*" />
+        </Grid.RowDefinitions>
+
+        <Border Background="#212529" CornerRadius="0 0 15 0" Grid.RowSpan="2" />
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock Text="Поиск по названию" Foreground="LightCyan" />
+                <TextBox Text="{Binding QueryName, UpdateSourceTrigger=PropertyChanged}">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="TextChanged">
+                            <i:InvokeCommandAction Command="{Binding FilterByNameCommand}" />
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </TextBox>
+            </StackPanel>
+            <StackPanel Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <TextBlock Text="Поиск по типу" Foreground="LightCyan" />
+                <ComboBox ItemsSource="{Binding Types}" DisplayMemberPath="TypeName" SelectedItem="{Binding CurrIngredType, UpdateSourceTrigger=PropertyChanged}">
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="SelectionChanged">
+                            <i:InvokeCommandAction Command="{Binding FilterByTypeIdCommand}" />
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </ComboBox>
+            </StackPanel>
+            <Button Visibility="{Binding IsAdmin}" Style="{StaticResource WinBtn}" Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" Command="{Binding AddIngredCommand}">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="Plus" VerticalAlignment="Center" />
+                    <TextBlock Text="Добавить" />
+                </StackPanel>
+            </Button>
+            
+        </Grid>
+
+        <DataGrid SelectedItem="{Binding CurrIngredient}" Margin="0 0 20 0" Grid.Row="1" ItemsSource="{Binding Ingredients}" Style="{DynamicResource DataGridStyle1}" CellStyle="{DynamicResource DataGridCellStyle1}" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}">
+            <DataGrid.Columns>
+                <DataGridTextColumn IsReadOnly="True" Header="Название" Binding="{Binding Path=Name}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Вес" Binding="{Binding Path=Weight}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Тип" Binding="{Binding Path=Type.TypeName}" />
+                <DataGridTemplateColumn IsReadOnly="True" Header="Операции" Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Visibility="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=UserControl}, Path=DataContext.IsAdmin}" Style="{StaticResource editBtn}" Command="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=UserControl}, Path=DataContext.UpdateIngredCommand}">
+                                    <icon:PackIconMaterial Kind="PencilOutline" Style="{StaticResource gridIcon}" />
+                                </Button>
+                                <Button Visibility="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=UserControl}, Path=DataContext.IsAdmin}" Style="{StaticResource removeBtn}" Command="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=UserControl}, Path=DataContext.DeleteIngredCommand}">
+                                    <icon:PackIconMaterial Kind="DeleteOutline" Style="{StaticResource gridIcon}" />
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+            <DataGrid.ContextMenu>
+                <ContextMenu>
+                    <MenuItem Visibility="{Binding IsWorkshopHead}" Header="Просмотреть ингредиенты на складе" Command="{Binding NavigateIngredsOnWarehouseCommand}" />
+                </ContextMenu>
+            </DataGrid.ContextMenu>
+        </DataGrid>
+        
+    </Grid>
+</UserControl>

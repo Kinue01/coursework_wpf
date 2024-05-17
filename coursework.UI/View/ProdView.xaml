@@ -1,0 +1,94 @@
+﻿<UserControl x:Class="coursework.UI.View.ProdView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:coursework.UI.View"
+             xmlns:ext="http://schemas.xceed.com/wpf/xaml/toolkit"
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             mc:Ignorable="d" 
+             d:DesignHeight="450"
+             d:DesignWidth="800">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        
+        <Border Grid.RowSpan="2" Grid.ColumnSpan="2" Background="#212529" CornerRadius="0 0 15 0" />
+
+        <Image Source="{Binding Product.ProductImage}" />
+
+        <Grid Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <TextBlock Grid.ColumnSpan="2" Text="{Binding Product.ProductName}" Foreground="LightCyan" VerticalAlignment="Center" HorizontalAlignment="Center" />
+
+            <TextBlock Grid.Row="1" Grid.ColumnSpan="2" Text="{Binding Product.ProductPrice}" Foreground="LightCyan" VerticalAlignment="Center" HorizontalAlignment="Center" />
+
+            <Button Style="{StaticResource WinBtn}" Grid.Row="2" HorizontalAlignment="Center" VerticalAlignment="Center" Command="{Binding NavigateAddOrderCommand}">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="Cart" VerticalAlignment="Center" />
+                    <TextBlock Text="Купить" />
+                </StackPanel>
+            </Button>
+
+            <StackPanel Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Text="Количество" Foreground="LightCyan" />
+                <ext:IntegerUpDown MinWidth="100" Value="{Binding Count}" Background="LightCyan" BorderThickness="0" />
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Белки: " VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="LightCyan" />
+
+            <TextBlock Grid.Row="1" Text="Жиры: " VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="LightCyan" />
+
+            <TextBlock Grid.Row="2" Text="Углеводы: " VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="LightCyan" />
+
+            <TextBlock Grid.Column="1" Text="{Binding Product.ProductProteins}" Foreground="LightCyan" VerticalAlignment="Center" HorizontalAlignment="Left" />
+
+            <TextBlock Grid.Row="1" Grid.Column="1" Text="{Binding Product.ProductFats}" Foreground="LightCyan" VerticalAlignment="Center" HorizontalAlignment="Left" />
+
+            <TextBlock Grid.Column="1" Grid.Row="2" Text="{Binding Product.ProductCarbohydrates}" Foreground="LightCyan" VerticalAlignment="Center" HorizontalAlignment="Left" />
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Text="Вес: " VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="LightCyan" />
+
+            <TextBlock Grid.Column="1" Text="{Binding Product.ProductWeight}" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="LightCyan" />
+
+        </Grid>
+
+    </Grid>
+</UserControl>

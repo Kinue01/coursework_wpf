@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D12455B1-FDA2-4A55-8E36-AFEEA8DA15A5}|..\\coursework.EntityFramework\\coursework.EntityFramework.csproj|c:\\users\\tverd\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.entityframework\\mapper\\getcartordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12455B1-FDA2-4A55-8E36-AFEEA8DA15A5}|..\\coursework.EntityFramework\\coursework.EntityFramework.csproj|c:\\users\\tverd\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.entityframework\\repositoryimpl\\employeedbrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC8D4ED-E2C8-421C-A046-692DFFEF5933}|coursework.UI.csproj|c:\\users\\tverd\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.ui\\view\\ordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6AC8D4ED-E2C8-421C-A046-692DFFEF5933}|coursework.UI.csproj|solutionrelative:view\\ordersview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12455B1-FDA2-4A55-8E36-AFEEA8DA15A5}|..\\coursework.EntityFramework\\coursework.EntityFramework.csproj|c:\\users\\tverd\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.entityframework\\repositoryimpl\\orderdbrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC8D4ED-E2C8-421C-A046-692DFFEF5933}|coursework.UI.csproj|c:\\users\\tverd\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.ui\\viewmodel\\ordersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC8D4ED-E2C8-421C-A046-692DFFEF5933}|coursework.UI.csproj|solutionrelative:viewmodel\\ordersviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D12455B1-FDA2-4A55-8E36-AFEEA8DA15A5}|..\\coursework.EntityFramework\\coursework.EntityFramework.csproj|c:\\users\\tverd\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.entityframework\\mapper\\tbemployeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1349,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDbRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.EntityFramework\\RepositoryImpl\\EmployeeDbRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "..\\coursework.EntityFramework\\RepositoryImpl\\EmployeeDbRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.EntityFramework\\RepositoryImpl\\EmployeeDbRepositoryImpl.cs",
+              "RelativeToolTip": "..\\coursework.EntityFramework\\RepositoryImpl\\EmployeeDbRepositoryImpl.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:02:33.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetCartOrderMapper.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.EntityFramework\\Mapper\\GetCartOrderMapper.cs",
+              "RelativeDocumentMoniker": "..\\coursework.EntityFramework\\Mapper\\GetCartOrderMapper.cs",
+              "ToolTip": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.EntityFramework\\Mapper\\GetCartOrderMapper.cs",
+              "RelativeToolTip": "..\\coursework.EntityFramework\\Mapper\\GetCartOrderMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:02:17.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersView.xaml",
+              "DocumentMoniker": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.UI\\View\\OrdersView.xaml",
+              "RelativeDocumentMoniker": "View\\OrdersView.xaml",
+              "ToolTip": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.UI\\View\\OrdersView.xaml",
+              "RelativeToolTip": "View\\OrdersView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T20:00:43.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDbRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.EntityFramework\\RepositoryImpl\\OrderDbRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "..\\coursework.EntityFramework\\RepositoryImpl\\OrderDbRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.EntityFramework\\RepositoryImpl\\OrderDbRepositoryImpl.cs",
+              "RelativeToolTip": "..\\coursework.EntityFramework\\RepositoryImpl\\OrderDbRepositoryImpl.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:59:25.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.UI\\ViewModel\\OrdersViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\OrdersViewModel.cs",
+              "ToolTip": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.UI\\ViewModel\\OrdersViewModel.cs",
+              "RelativeToolTip": "ViewModel\\OrdersViewModel.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwIQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:58:23.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TbEmployeeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.EntityFramework\\Mapper\\TbEmployeeMapper.cs",
+              "RelativeDocumentMoniker": "..\\coursework.EntityFramework\\Mapper\\TbEmployeeMapper.cs",
+              "ToolTip": "C:\\Users\\tverd\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursework\\coursework.EntityFramework\\Mapper\\TbEmployeeMapper.cs",
+              "RelativeToolTip": "..\\coursework.EntityFramework\\Mapper\\TbEmployeeMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T19:52:42.69Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 132,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

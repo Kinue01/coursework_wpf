@@ -1,0 +1,109 @@
+﻿<UserControl x:Class="coursework.UI.View.EmpAccountView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:coursework.UI.View"
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+
+        <Border Background="#212529" CornerRadius="0 0 15 0" Grid.RowSpan="2" />
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Image Source="{Binding User.Image}" Width="250" />
+
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <TextBlock Text="ФИО: " Foreground="LightCyan" />
+                    <TextBlock Text="{Binding Fio}" Foreground="LightCyan" />
+                </StackPanel>
+
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock Text="Серия паспорта: " Foreground="LightCyan" />
+                        <TextBlock Text="{Binding Employee.PassportSerial}" Foreground="LightCyan" />
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1">
+                        <TextBlock Text="Номер паспорта: " Foreground="LightCyan" />
+                        <TextBlock Text="{Binding Employee.PassportNum}" Foreground="LightCyan" />
+                    </StackPanel>
+
+                </Grid>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="2">
+                    <TextBlock Text="Должность: " Foreground="LightCyan" />
+                    <TextBlock Text="{Binding Employee.Position.PositionTitle}" Foreground="LightCyan" />
+                </StackPanel>
+
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <TextBlock Text="Образование: " Foreground="LightCyan" />
+                    <TextBlock Text="{Binding Employee.Education}" Foreground="LightCyan" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1">
+                    <TextBlock Text="Цех: " Foreground="LightCyan" />
+                    <TextBlock Text="{Binding Employee.Workshop.WorkshopName}" Foreground="LightCyan" />
+                </StackPanel>
+
+                <Button Style="{StaticResource WinBtn}" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Command="{Binding UpdateEmpDataCommand}">
+                    <StackPanel Orientation="Horizontal">
+                        <icon:PackIconMaterial Kind="AccountCheck" VerticalAlignment="Center" />
+                        <TextBlock Text="Изменить данные" />
+                    </StackPanel>
+                </Button>
+            </Grid>
+
+            <Grid Grid.Row="1" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <TextBlock Text="Телефон: " Foreground="LightCyan" />
+                    <TextBlock Text="{Binding User.PhoneNumber}" Foreground="LightCyan" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1">
+                    <TextBlock Text="Email: " Foreground="LightCyan" />
+                    <TextBlock Text="{Binding User.Email}" Foreground="LightCyan" />
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</UserControl>

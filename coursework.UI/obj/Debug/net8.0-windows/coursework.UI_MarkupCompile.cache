@@ -1,0 +1,20 @@
+﻿coursework.UI
+
+
+winexe
+C#
+.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\
+coursework.UI
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\App.xaml
+501489924635
+
+106-1981927408
+2842085010783
+Dialog\View\AddIngredOnWarehouseView.xaml;Dialog\View\AddIngredView.xaml;Dialog\View\AddProdComposView.xaml;Dialog\View\AddProductView.xaml;Dialog\View\AddSupplierView.xaml;Dialog\View\AddTimesheetView.xaml;Dialog\View\AddWorkshopView.xaml;Dialog\View\AlertDialogView.xaml;Dialog\View\DeleteDialogView.xaml;Dialog\View\UpdateClientAccView.xaml;Dialog\View\UpdateEmpAccView.xaml;Dialog\View\UpdateEmployeeView.xaml;Dialog\View\UpdateIngredView.xaml;Dialog\View\UpdateProdComposView.xaml;Dialog\View\UpdateProductView.xaml;Dialog\View\UpdateSupplierView.xaml;Dialog\View\UpdateWorkshopView.xaml;Dialog\View\YesNoDialogView.xaml;Styles\Button.xaml;Styles\ComboBox.xaml;Styles\DataGrid.xaml;Styles\DatePicker.xaml;Styles\PasswordBox.xaml;Styles\RangeSlider.xaml;Styles\TextBlock.xaml;Styles\TextBox.xaml;Utils\DialogWindow.xaml;View\AccountView.xaml;View\AddEmployeeView.xaml;View\AddOrderView.xaml;View\ClientsView.xaml;View\DashboardView.xaml;View\EmpAccountView.xaml;View\EmployeesView.xaml;View\EmpProdsView.xaml;View\IngredExpenseView.xaml;View\IngredsOnWarehouseView.xaml;View\IngredsView.xaml;View\LoginView.xaml;View\MainView.xaml;View\MainWindow.xaml;View\OrdersView.xaml;View\ProductComposView.xaml;View\ProductsView.xaml;View\ProdView.xaml;View\RegistrationView.xaml;View\SettingsView.xaml;View\SuppliersView.xaml;View\TimetableView.xaml;View\WorkshopView.xaml;
+
+False
+

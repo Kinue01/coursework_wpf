@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="coursework.UI.View.ProductComposView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:coursework.UI.View"
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" d:DesignWidth="1280">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="6*" />
+        </Grid.RowDefinitions>
+
+        <Border Background="#212529" CornerRadius="0 0 15 0" Grid.RowSpan="2" />
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button Style="{StaticResource WinBtn}" HorizontalAlignment="Center" VerticalAlignment="Center" Command="{Binding NavigateProdsCommand}">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="ArrowLeft" VerticalAlignment="Center" />
+                    <TextBlock Text="Назад" />
+                </StackPanel>
+            </Button>
+
+            <TextBlock Text="{Binding Product.ProductName}" HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="LightCyan" Grid.Column="1" />
+
+            <Button Style="{StaticResource WinBtn}" HorizontalAlignment="Center" VerticalAlignment="Center" Command="{Binding AddComposCommand}" Grid.Column="2">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="Plus" VerticalAlignment="Center" />
+                    <TextBlock Text="Добавить" />
+                </StackPanel>
+            </Button>
+
+        </Grid>
+
+        <DataGrid Margin="0 0 20 0" SelectedItem="{Binding CurrIngred}" Grid.Row="1" ItemsSource="{Binding Compositions}" Style="{DynamicResource DataGridStyle1}" CellStyle="{DynamicResource DataGridCellStyle1}" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}">
+            <DataGrid.Columns>
+                <DataGridTextColumn IsReadOnly="True" Header="Ингредиент" Binding="{Binding Path=CompositionIngredient.Name}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Количество (шт)" Binding="{Binding Path=CompositionIngredientCount}" />
+                <DataGridTemplateColumn IsReadOnly="True" Header="Операции" Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Style="{StaticResource editBtn}" Command="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=UserControl}, Path=DataContext.UpdateComposCommand}">
+                                    <icon:PackIconMaterial Kind="PencilOutline" Style="{StaticResource gridIcon}" />
+                                </Button>
+                                <Button Style="{StaticResource removeBtn}" Command="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType=UserControl}, Path=DataContext.DeleteComposCommand}">
+                                    <icon:PackIconMaterial Kind="DeleteOutline" Style="{StaticResource gridIcon}" />
+                                </Button>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="coursework.UI.View.IngredExpenseView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:coursework.UI.View"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" d:DesignWidth="1280">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="7*" />
+        </Grid.RowDefinitions>
+
+        <Border Background="#212529" CornerRadius="0 0 15 0" Grid.RowSpan="2" />
+
+        <DataGrid Margin="0 0 20 0" Grid.Row="1" ItemsSource="{Binding Ingredients}" Style="{DynamicResource DataGridStyle1}" CellStyle="{DynamicResource DataGridCellStyle1}" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}">
+            <DataGrid.Columns>
+                <DataGridTextColumn IsReadOnly="True" Header="Ингредиент" Binding="{Binding Path=Ingredient.Name}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Продукт" Binding="{Binding Path=Product.ProductName}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Поставщик" Binding="{Binding Path=Supplier.SupplierName}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Дата поставки" Binding="{Binding Path=SupplyDate}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Количество" Binding="{Binding Path=Count}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

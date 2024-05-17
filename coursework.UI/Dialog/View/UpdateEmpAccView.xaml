@@ -1,0 +1,132 @@
+﻿<UserControl x:Class="coursework.UI.Dialog.View.UpdateEmpAccView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:coursework.UI.Dialog.View"
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             mc:Ignorable="d" 
+             Height="550" 
+             Width="950">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                <TextBlock Text="Фамилия" Foreground="LightCyan" />
+                <TextBox Text="{Binding Lastname}" />
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                <TextBlock Text="Имя" Foreground="LightCyan" />
+                <TextBox Text="{Binding Firstname}" />
+            </StackPanel>
+
+            <StackPanel Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                <TextBlock Text="Отчество" Foreground="LightCyan" />
+                <TextBox Text="{Binding Middlename}" />
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                <TextBlock Text="Серия паспорта" Foreground="LightCyan" />
+                <TextBox Text="{Binding PassportSer}" />
+            </StackPanel>
+
+            <StackPanel  Grid.Row="1" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                <TextBlock Text="Номер паспорта" Foreground="LightCyan" />
+                <TextBox Text="{Binding PassportNum}" />
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                <TextBlock Text="День рождения" Foreground="LightCyan" />
+                <DatePicker SelectedDate="{Binding Birthday}" />
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                <TextBlock Text="Email" Foreground="LightCyan" />
+                <TextBox Text="{Binding Email}" />
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                <TextBlock Text="Телефон" Foreground="LightCyan" />
+                <TextBox Text="{Binding Phone}" />
+            </StackPanel>
+
+            <StackPanel Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                <TextBlock Text="Образование" Foreground="LightCyan" />
+                <TextBox Text="{Binding Education}" />
+            </StackPanel>
+
+            <Grid Grid.Column="3" Grid.RowSpan="4">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <Image Source="{Binding Image}" Width="200" Height="200" />
+
+                <Button Style="{StaticResource WinBtn}" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" Command="{Binding UpdateImageCommand}">
+                    <StackPanel Orientation="Horizontal">
+                        <icon:PackIconMaterial Kind="File" />
+                        <TextBlock Text="Обновить фото" />
+                    </StackPanel>
+                </Button>
+            </Grid>
+            
+            <Grid Grid.Row="3" Grid.ColumnSpan="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                    <TextBlock Text="Логин" Foreground="LightCyan" />
+                    <TextBox Text="{Binding Login}" />
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                    <TextBlock Text="Пароль" Foreground="LightCyan" />
+                    <TextBox Text="{Binding Password}" />
+                </StackPanel>
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button Style="{StaticResource WinBtn}" Command="{Binding YesCommand}" CommandParameter="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="Check" />
+                    <TextBlock Text="Обновить" />
+                </StackPanel>
+            </Button>
+
+            <Button Style="{StaticResource WinBtn}" Grid.Column="1" Command="{Binding NoCommand}" CommandParameter="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="Cancel" />
+                    <TextBlock Text="Отмена" />
+                </StackPanel>
+            </Button>
+
+        </Grid>
+    </Grid>
+</UserControl>

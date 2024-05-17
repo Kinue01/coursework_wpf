@@ -1,0 +1,187 @@
+﻿<Application x:Class="coursework.UI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:coursework.UI"
+             xmlns:vm="clr-namespace:coursework.UI.ViewModel"
+             xmlns:view="clr-namespace:coursework.UI.View"
+             xmlns:dvm="clr-namespace:coursework.UI.Dialog.ViewModel"
+             xmlns:dview="clr-namespace:coursework.UI.Dialog.View">
+    <Application.Resources>
+
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Styles/Button.xaml" />
+                <ResourceDictionary Source="Styles/DataGrid.xaml" />
+                <ResourceDictionary Source="Styles/TextBox.xaml" />
+                <ResourceDictionary Source="Styles/ComboBox.xaml" />
+                <ResourceDictionary Source="Styles/RangeSlider.xaml" />
+                <ResourceDictionary Source="Styles/DatePicker.xaml" />
+                <ResourceDictionary Source="Styles/PasswordBox.xaml" />
+                <ResourceDictionary Source="Styles/TextBlock.xaml" />
+                <ResourceDictionary>
+                    <DataTemplate DataType="{x:Type TypeName=vm:LoginViewModel}">
+                        <view:LoginView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:RegistrationViewModel}">
+                        <view:RegistrationView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:MainViewVM}">
+                        <view:MainView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:ProductsViewModel}">
+                        <view:ProductsView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:AccountViewModel}">
+                        <view:AccountView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:SettingsViewModel}">
+                        <view:SettingsView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:EmpAccountViewModel}">
+                        <view:EmpAccountView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:DashboardViewModel}">
+                        <view:DashboardView />
+                    </DataTemplate>
+                    
+                    <DataTemplate DataType="{x:Type TypeName=vm:ProdViewModel}">
+                        <view:ProdView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:WorkshopViewModel}">
+                        <view:WarehousesView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:TimetableViewModel}">
+                        <view:TimetableView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:ClientsViewModel}">
+                        <view:ClientsView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:SuppliersViewModel}">
+                        <view:SuppliersView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:EmployeesViewModel}">
+                        <view:EmployeesView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:IngredsViewModel}">
+                        <view:IngredsView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:OrdersViewModel}">
+                        <view:OrdersView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:AddOrderViewModel}">
+                        <view:AddOrderView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:EmpProdsViewModel}">
+                        <view:EmpProdsView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:AddEmployeeViewModel}">
+                        <view:AddEmployeeView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:AddProductViewModel}">
+                        <dview:AddProductView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:AlertDialogViewModel}">
+                        <dview:AlertDialogView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:YesNoDialogViewModel}">
+                        <dview:YesNoDialogView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:DeleteDialogViewModel}">
+                        <dview:DeleteDialogView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:ProductComposViewModel}">
+                        <view:ProductComposView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:IngredsOnWarehouseViewModel}">
+                        <view:IngredsOnWarehouseView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=vm:IngredExpenseViewModel}">
+                        <view:IngredExpenseView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:UpdateProductViewModel}">
+                        <dview:UpdateProductView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:AddWorkshopViewModel}">
+                        <dview:AddWorkshopView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:UpdateWorkshopViewModel}">
+                        <dview:UpdateWorkshopView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:AddTimesheetViewModel}">
+                        <dview:AddTimesheetView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:AddSupplierViewModel}">
+                        <dview:AddSupplierView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:UpdateSupplierViewModel}">
+                        <dview:UpdateSupplierView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:AddProdComposViewModel}">
+                        <dview:AddProdComposView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:UpdateProdComposViewModel}">
+                        <dview:UpdateProdComposView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:AddIngredViewModel}">
+                        <dview:AddIngredView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:UpdateEmployeeViewModel}">
+                        <dview:UpdateEmployeeView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:UpdateIngredViewModel}">
+                        <dview:UpdateIngredView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:AddIngredOnWarehouseViewModel}">
+                        <dview:AddIngredOnWarehouseView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:UpdateEmpAccViewModel}">
+                        <dview:UpdateEmpAccView />
+                    </DataTemplate>
+
+                    <DataTemplate DataType="{x:Type TypeName=dvm:UpdateClientAccViewModel}">
+                        <dview:UpdateClientAccView />
+                    </DataTemplate>
+
+                </ResourceDictionary>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+    </Application.Resources>
+</Application>

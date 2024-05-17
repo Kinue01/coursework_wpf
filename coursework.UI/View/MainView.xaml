@@ -1,0 +1,57 @@
+﻿<UserControl x:Class="coursework.UI.View.MainView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:coursework.UI.View"
+             xmlns:utils="clr-namespace:coursework.UI.Utils"
+             xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" 
+             d:DesignWidth="1280">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="4*" />
+        </Grid.ColumnDefinitions>
+
+        <Border Grid.ColumnSpan="2" Background="#212529" CornerRadius="0 0 15 15" />
+
+        <StackPanel VerticalAlignment="Top" HorizontalAlignment="Center">
+            <Image Source="{Binding Image}" Width="50" Height="50" />
+            <TextBlock VerticalAlignment="Center" HorizontalAlignment="Center" Text="{Binding Fio}" Foreground="LightCyan" />
+        </StackPanel>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <utils:Btn Style="{StaticResource ResourceKey=BtnStyle}" Command="{Binding NavigateHomeCommand}" IsChecked="True">
+                <Grid>
+                    <icon:PackIconMaterial Kind="Home" Margin="15 0 0 0" VerticalAlignment="Center" Width="25" Height="25" Foreground="LightCyan" />
+                    <TextBlock Text="Home" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightCyan" />
+                </Grid>
+            </utils:Btn>
+            <utils:Btn Style="{StaticResource ResourceKey=BtnStyle}" Command="{Binding NavigateAccountCommand}">
+                <Grid>
+                    <icon:PackIconMaterial Kind="Account" Margin="15 0 0 0" VerticalAlignment="Center" Width="25" Height="25" Foreground="LightCyan" />
+                    <TextBlock Text="Account" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightCyan" />
+                </Grid>
+            </utils:Btn>
+            <utils:Btn Style="{StaticResource ResourceKey=BtnStyle}" Command="{Binding NavigateDashboardCommand}" Visibility="{Binding Visibility}">
+                <Grid>
+                    <icon:PackIconMaterial Kind="ViewDashboard" Margin="15 0 0 0" VerticalAlignment="Center" Width="25" Height="25" Foreground="LightCyan" />
+                    <TextBlock Text="Dashboard" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="LightCyan" />
+                </Grid>
+            </utils:Btn>
+        </StackPanel>
+
+        <Button VerticalAlignment="Bottom" Style="{StaticResource WinBtn}" Command="{Binding NavigateLoginCommand}">
+            <StackPanel Orientation="Horizontal">
+                <icon:PackIconMaterial Kind="AccountArrowLeft" VerticalAlignment="Center" />
+                <TextBlock Text="Выход" />
+            </StackPanel>
+        </Button>
+
+        <ContentControl Grid.Column="1" Content="{Binding NavigationService.CurrentMainView}" />
+
+    </Grid>
+</UserControl>

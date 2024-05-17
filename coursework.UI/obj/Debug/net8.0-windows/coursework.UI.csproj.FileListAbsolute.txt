@@ -1,0 +1,1640 @@
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.exe
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.deps.json
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.runtimeconfig.json
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.AssemblyReference.cache
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.cache
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.lref
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.g.resources
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfoInputs.cache
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfo.cs
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.CoreCompileInputs.cache
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursewo.B5276AB6.Up2Date
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\refint\coursework.UI.dll
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.genruntimeconfig.cache
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\ref\coursework.UI.dll
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.g.cs
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\App.baml
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.baml
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\tverd\source\repos\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\View\MainView.g.cs
+C:\Users\tverd\source\repos\coursework.UI\obj\Debug\net8.0-windows\View\MainView.baml
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.exe
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.deps.json
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.runtimeconfig.json
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\admin\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.g.cs
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.g.cs
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.cache
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.lref
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\App.baml
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.baml
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.baml
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.g.resources
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfo.cs
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursewo.B5276AB6.Up2Date
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\refint\coursework.UI.dll
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.genruntimeconfig.cache
+C:\Users\admin\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\ref\coursework.UI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.exe
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.deps.json
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.runtimeconfig.json
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.AssemblyReference.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductsView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.lref
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\App.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductsView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.g.resources
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfoInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfo.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.CoreCompileInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursewo.B5276AB6.Up2Date
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\refint\coursework.UI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.genruntimeconfig.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\ref\coursework.UI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AccountView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AccountView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SettingsView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\Button.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpAccountView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpAccountView.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.exe
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.deps.json
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.runtimeconfig.json
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\Button.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AccountView.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\DashboardView.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpAccountView.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductsView.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.cache
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.lref
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\App.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AccountView.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\DashboardView.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpAccountView.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductsView.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SettingsView.baml
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.g.resources
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfo.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.CopyComplete
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\refint\coursework.UI.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.genruntimeconfig.cache
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\ref\coursework.UI.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProdView.g.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProdView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.exe
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.deps.json
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.runtimeconfig.json
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\Button.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\DataGrid.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AccountView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ClientsView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\DashboardView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpAccountView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmployeesView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\OrdersView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductsView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProdView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SuppliersView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\TimetableView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.cache
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.lref
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\App.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AccountView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ClientsView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\DashboardView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpAccountView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmployeesView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\OrdersView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductsView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProdView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SettingsView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SuppliersView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\TimetableView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.g.resources
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfo.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.CopyComplete
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\refint\coursework.UI.dll
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.genruntimeconfig.cache
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\ref\coursework.UI.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.exe
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.deps.json
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.runtimeconfig.json
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\Button.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\DataGrid.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AccountView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ClientsView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\DashboardView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpAccountView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmployeesView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\OrdersView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductsView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProdView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SuppliersView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\TimetableView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.cache
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.lref
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\App.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AccountView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ClientsView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\DashboardView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpAccountView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmployeesView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\OrdersView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductsView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProdView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SettingsView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SuppliersView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\TimetableView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.g.resources
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfo.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursewo.B5276AB6.Up2Date
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\refint\coursework.UI.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.genruntimeconfig.cache
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\ref\coursework.UI.dll
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddOrderView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\WorkshopView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddOrderView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\WorkshopView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpProdsView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpProdsView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddEmployeeView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddEmployeeView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.exe
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.deps.json
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.runtimeconfig.json
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.AssemblyReference.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\Button.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\DataGrid.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddProductView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AccountView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddEmployeeView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddOrderView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ClientsView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\DashboardView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpAccountView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmployeesView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpProdsView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\OrdersView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductsView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProdView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SettingsView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SuppliersView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\TimetableView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\WorkshopView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI_MarkupCompile.lref
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\App.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddProductView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AccountView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddEmployeeView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddOrderView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ClientsView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\DashboardView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpAccountView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmployeesView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpProdsView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\LoginView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\MainWindow.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\OrdersView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductsView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProdView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\RegistrationView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SettingsView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\SuppliersView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\TimetableView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\WorkshopView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.g.resources
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfoInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.AssemblyInfo.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.csproj.CoreCompileInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursewo.B5276AB6.Up2Date
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\refint\coursework.UI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\coursework.UI.genruntimeconfig.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\ref\coursework.UI.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Utils\DialogWindow.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Utils\DialogWindow.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AlertDialogView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AlertDialogView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\YesNoDialogView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\YesNoDialogView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\DevExpress.Mvvm.UI.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\DevExpress.Mvvm.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\student\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddProductView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AlertDialogView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\YesNoDialogView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Utils\DialogWindow.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddProductView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AlertDialogView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\YesNoDialogView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Utils\DialogWindow.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\DeleteDialogView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\DeleteDialogView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductComposView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductComposView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\DeleteDialogView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductComposView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\DeleteDialogView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductComposView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsOnWarehouseView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsOnWarehouseView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredExpenseView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredExpenseView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredExpenseView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsOnWarehouseView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredExpenseView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsOnWarehouseView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ControlzEx.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\DevExpress.Mvvm.UI.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\DevExpress.Mvvm.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.NET5.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.NET5.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.NET5.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.NET5.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\Xceed.Wpf.Toolkit.NET5.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\MahApps.Metro.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\es\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\fr\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\hu\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\it\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ja-JP\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\pt-BR\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ro\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\ru\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\sv\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.NET5.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\bin\Debug\net8.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddProductView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddWorkshopView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AlertDialogView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\DeleteDialogView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateProductView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\YesNoDialogView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Utils\DialogWindow.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddEmployeeView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddOrderView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpProdsView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredExpenseView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsOnWarehouseView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductComposView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\WorkshopView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddProductView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddWorkshopView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AlertDialogView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\DeleteDialogView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateProductView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\YesNoDialogView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Utils\DialogWindow.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddEmployeeView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\AddOrderView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\EmpProdsView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredExpenseView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\IngredsOnWarehouseView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\ProductComposView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\View\WorkshopView.baml
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateWorkshopView.g.cs
+C:\Users\stud\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateWorkshopView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddWorkshopView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateProductView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateWorkshopView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddWorkshopView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateProductView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateWorkshopView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddIngredView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddProdComposView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddSupplierView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddTimesheetView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateProdComposView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateSupplierView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddIngredView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddProdComposView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddSupplierView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddTimesheetView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateProdComposView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateSupplierView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateEmployeeView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateIngredView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateEmployeeView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateIngredView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddIngredOnWarehouseView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddIngredOnWarehouseView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddIngredOnWarehouseView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddIngredView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddProdComposView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddSupplierView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddTimesheetView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddWorkshopView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateEmployeeView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateIngredView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateProdComposView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateProductView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateSupplierView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateWorkshopView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddIngredOnWarehouseView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddIngredView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddProdComposView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddSupplierView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddTimesheetView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\AddWorkshopView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateEmployeeView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateIngredView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateProdComposView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateProductView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateSupplierView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateWorkshopView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\TextBox.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\TextBox.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\ComboBox.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\DatePicker.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\PasswordBox.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\RangeSlider.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateClientAccView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateEmpAccView.g.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateClientAccView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateEmpAccView.baml
+C:\Users\tverd\Рабочий стол\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\TextBlock.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\ComboBox.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\DatePicker.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\PasswordBox.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\RangeSlider.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Styles\TextBlock.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateClientAccView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateEmpAccView.g.cs
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateClientAccView.baml
+C:\Users\student\Desktop\coursework\coursework.UI\obj\Debug\net8.0-windows\Dialog\View\UpdateEmpAccView.baml

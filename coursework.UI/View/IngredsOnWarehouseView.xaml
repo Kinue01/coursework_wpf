@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="coursework.UI.View.IngredsOnWarehouseView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:coursework.UI.View"
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" d:DesignWidth="1280">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="7*" />
+        </Grid.RowDefinitions>
+
+        <Border Background="#212529" CornerRadius="0 0 15 0" Grid.RowSpan="2" />
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button Style="{StaticResource WinBtn}" Command="{Binding NavigateIngredsCommand}" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="ArrowLeft" VerticalAlignment="Center" />
+                    <TextBlock Text="Назад" />
+                </StackPanel>
+            </Button>
+
+            <Button Grid.Column="1" Style="{StaticResource WinBtn}" Command="{Binding AddIngredCommand}" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="Plus" VerticalAlignment="Center" />
+                    <TextBlock Text="Добавить" />
+                </StackPanel>
+            </Button>
+
+        </Grid>
+
+        <DataGrid Margin="0 0 20 0" Grid.Row="1" ItemsSource="{Binding Ingredients}" Style="{DynamicResource DataGridStyle1}" CellStyle="{DynamicResource DataGridCellStyle1}" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}">
+            <DataGrid.Columns>
+                <DataGridTextColumn IsReadOnly="True" Header="Ингредиент" Binding="{Binding Path=Ingredient.Name}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Поставщик" Binding="{Binding Path=Supplier.SupplierName}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Дата поставки" Binding="{Binding Path=SupplyDate}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Годен до" Binding="{Binding Path=IngredientUpTo}" />
+                <DataGridTextColumn IsReadOnly="True" Header="Число за поставку" Binding="{Binding Path=IngredientCount}" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

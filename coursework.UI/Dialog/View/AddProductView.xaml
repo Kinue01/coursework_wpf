@@ -1,0 +1,84 @@
+﻿<UserControl x:Class="coursework.UI.Dialog.View.AddProductView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:coursework.UI.Dialog.View"
+             mc:Ignorable="d" 
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:ext="http://schemas.xceed.com/wpf/xaml/toolkit"
+             Height="300" 
+             Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="100">
+                <TextBlock Text="Название" Foreground="LightCyan" />
+                <TextBox Text="{Binding Name}" />
+            </StackPanel>
+
+            <StackPanel Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="100">
+                <TextBlock Text="Белки" Foreground="LightCyan" />
+                <ext:IntegerUpDown Value="{Binding Prots}" Background="LightCyan" BorderThickness="0" />
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="100">
+                <TextBlock Text="Цена" Foreground="LightCyan" />
+                <ext:IntegerUpDown Value="{Binding Price}" Background="LightCyan" BorderThickness="0" />
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="100">
+                <TextBlock Text="Жиры" Foreground="LightCyan" />
+                <ext:IntegerUpDown Value="{Binding Fats}" Background="LightCyan" BorderThickness="0" />
+            </StackPanel>
+
+            <StackPanel Grid.Column="2" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="100">
+                <TextBlock Text="Углеводы" Foreground="LightCyan" />
+                <ext:IntegerUpDown Value="{Binding Carb}" Background="LightCyan" BorderThickness="0" />
+            </StackPanel>
+
+            <StackPanel Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Center" MinWidth="100">
+                <TextBlock Text="Вес" Foreground="LightCyan" />
+                <ext:IntegerUpDown Value="{Binding Weight}" Background="LightCyan" BorderThickness="0" />
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button Style="{StaticResource WinBtn}" Command="{Binding YesCommand}" CommandParameter="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="Plus" />
+                    <TextBlock Text="Добавить" />
+                </StackPanel>
+            </Button>
+
+            <Button Style="{StaticResource WinBtn}" Grid.Column="1" Command="{Binding NoCommand}" CommandParameter="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="Cancel" />
+                    <TextBlock Text="Отмена" />
+                </StackPanel>
+            </Button>
+
+        </Grid>
+
+    </Grid>
+</UserControl>

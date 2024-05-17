@@ -1,0 +1,133 @@
+C:\Users\tverd\source\repos\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.deps.json
+C:\Users\tverd\source\repos\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.runtimeconfig.json
+C:\Users\tverd\source\repos\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\tverd\source\repos\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\tverd\source\repos\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\tverd\source\repos\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\source\repos\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\tverd\source\repos\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\source\repos\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\tverd\source\repos\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tverd\source\repos\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\tverd\source\repos\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfo.cs
+C:\Users\tverd\source\repos\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\tverd\source\repos\coursework.EntityFramework\obj\Debug\net8.0-windows\coursewo.DC86E57C.Up2Date
+C:\Users\tverd\source\repos\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\tverd\source\repos\coursework.EntityFramework\obj\Debug\net8.0-windows\refint\coursework.EntityFramework.dll
+C:\Users\tverd\source\repos\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\tverd\source\repos\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.genruntimeconfig.cache
+C:\Users\tverd\source\repos\coursework.EntityFramework\obj\Debug\net8.0-windows\ref\coursework.EntityFramework.dll
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.deps.json
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.runtimeconfig.json
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfo.cs
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursewo.DC86E57C.Up2Date
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\refint\coursework.EntityFramework.dll
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.genruntimeconfig.cache
+C:\Users\admin\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\ref\coursework.EntityFramework.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.deps.json
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.runtimeconfig.json
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfo.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursewo.DC86E57C.Up2Date
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\refint\coursework.EntityFramework.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.genruntimeconfig.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\ref\coursework.EntityFramework.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.deps.json
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.runtimeconfig.json
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfo.cs
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.CopyComplete
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\refint\coursework.EntityFramework.dll
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.genruntimeconfig.cache
+C:\Users\student\Desktop\coursework\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\ref\coursework.EntityFramework.dll
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.deps.json
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.runtimeconfig.json
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfo.cs
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.CopyComplete
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\refint\coursework.EntityFramework.dll
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.genruntimeconfig.cache
+C:\Users\student\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\ref\coursework.EntityFramework.dll
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.deps.json
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.runtimeconfig.json
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfo.cs
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursewo.DC86E57C.Up2Date
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\refint\coursework.EntityFramework.dll
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.genruntimeconfig.cache
+C:\Users\stud\Desktop\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\ref\coursework.EntityFramework.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.deps.json
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.runtimeconfig.json
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Data.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\bin\Debug\net8.0-windows\coursework.Domain.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.AssemblyInfo.cs
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursewo.DC86E57C.Up2Date
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\refint\coursework.EntityFramework.dll
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.pdb
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\coursework.EntityFramework.genruntimeconfig.cache
+C:\Users\tverd\Рабочий стол\coursework\coursework.EntityFramework\obj\Debug\net8.0-windows\ref\coursework.EntityFramework.dll

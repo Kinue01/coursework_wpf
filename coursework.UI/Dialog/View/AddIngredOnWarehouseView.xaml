@@ -1,0 +1,81 @@
+﻿<UserControl x:Class="coursework.UI.Dialog.View.AddIngredOnWarehouseView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:coursework.UI.Dialog.View"
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:ext="http://schemas.xceed.com/wpf/xaml/toolkit"
+             mc:Ignorable="d" 
+             Height="300" 
+             Width="500">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                    <TextBlock Text="Ингредиент" Foreground="LightCyan" />
+                    <ComboBox ItemsSource="{Binding Ingredients}" SelectedItem="{Binding CurrIngred}" DisplayMemberPath="Name" />
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                    <TextBlock Text="Поставщик" Foreground="LightCyan" />
+                    <ComboBox ItemsSource="{Binding Suppliers}" SelectedItem="{Binding CurrSupplier}" DisplayMemberPath="SupplierName" />
+                </StackPanel>
+            </Grid>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                    <TextBlock Text="Количество" Foreground="LightCyan" />
+                    <ext:IntegerUpDown Value="{Binding Count}" Background="LightCyan" BorderThickness="0" />
+                </StackPanel>
+
+                <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" MinWidth="150">
+                    <TextBlock Text="Годен до" Foreground="LightCyan" />
+                    <DatePicker SelectedDate="{Binding Upto}" />
+                </StackPanel>
+            </Grid>
+        </Grid>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <Button Style="{StaticResource WinBtn}" Command="{Binding YesCommand}" CommandParameter="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="Plus" />
+                    <TextBlock Text="Добавить" />
+                </StackPanel>
+            </Button>
+
+            <Button Style="{StaticResource WinBtn}" Grid.Column="1" Command="{Binding NoCommand}" CommandParameter="{Binding RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=Window}}">
+                <StackPanel Orientation="Horizontal">
+                    <icon:PackIconMaterial Kind="Cancel" />
+                    <TextBlock Text="Отмена" />
+                </StackPanel>
+            </Button>
+
+        </Grid>
+    </Grid>
+</UserControl>

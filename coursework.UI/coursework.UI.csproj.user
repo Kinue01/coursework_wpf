@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Dialog\View\AddIngredOnWarehouseView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\AddIngredView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\AddProdComposVIew.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\AddProductView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\AddSupplierView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\AddTimesheetView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\AddWorkshopView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\AlertDialogView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\DeleteDialogView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\UpdateClientAccView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\UpdateEmpAccView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\UpdateEmployeeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\UpdateIngredView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\UpdateProdComposView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\UpdateProductView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\UpdateSupplierView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\UpdateWorkshopView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Dialog\View\YesNoDialogView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Utils\DialogWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AccountView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddEmployeeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ClientsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\DashboardView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\EmpAccountView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\EmployeesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\EmpProdsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\IngredExpenseView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\IngredsOnWarehouseView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\IngredsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\LoginView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MainView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\OrdersView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ProductComposView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ProductsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ProdView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\RegistrationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SettingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SuppliersView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\TimetableView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\WorkshopView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Dialog\View\AddIngredOnWarehouseView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\AddIngredView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\AddProdComposView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\AddProductView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\AddSupplierView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\AddTimesheetView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\AddWorkshopView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\AlertDialogView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\DeleteDialogView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\UpdateClientAccView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\UpdateEmpAccView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\UpdateEmployeeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\UpdateIngredView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\UpdateProdComposView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\UpdateProductView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\UpdateSupplierView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\UpdateWorkshopView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dialog\View\YesNoDialogView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\ComboBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\DatePicker.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\PasswordBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\RangeSlider.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\TextBlock.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\TextBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Utils\DialogWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\Button.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Styles\DataGrid.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AccountView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddEmployeeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddOrderView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ClientsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\DashboardView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\EmpAccountView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\EmployeesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\EmpProdsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\IngredExpenseView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\IngredsOnWarehouseView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\IngredsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MainView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\LoginView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\OrdersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ProductComposView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ProductsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ProdView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\RegistrationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SettingsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SuppliersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\TimetableView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\WorkshopView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
