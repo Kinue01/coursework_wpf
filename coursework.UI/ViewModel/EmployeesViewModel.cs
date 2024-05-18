@@ -96,7 +96,7 @@ namespace coursework.UI.ViewModel
                 }
             });
 
-            Task.Run(GetEmps);
+            GetEmps();
         }
 
         async Task GetEmps()

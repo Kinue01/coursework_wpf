@@ -27,5 +27,21 @@ namespace coursework.EntityFramework.RepositoryImpl
                 return false;
             }
         }
+
+        public async Task<bool> UpdateEmployee(int order, int employee)
+        {
+            using var db = await contextFactory.CreateDbContextAsync();
+            try
+            {
+
+                await db.Database.ExecuteSqlInterpolatedAsync($"call update_emp_in_cartorder({order}, {employee})");
+
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+        }
     }
 }

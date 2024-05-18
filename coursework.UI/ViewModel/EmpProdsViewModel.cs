@@ -101,7 +101,7 @@ namespace coursework.UI.ViewModel
                 }
             });
 
-            Task.Run(GetProds);
+            GetProds();
         }
 
         async Task GetProds()

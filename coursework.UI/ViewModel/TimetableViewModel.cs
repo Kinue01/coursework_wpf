@@ -81,8 +81,8 @@ namespace coursework.UI.ViewModel
                 }
             });
 
-            Task.Run(GetEmps);
-            Task.Run(GetTimesheet);
+            GetEmps();
+            GetTimesheet();
         }
 
         async Task GetTimesheet()

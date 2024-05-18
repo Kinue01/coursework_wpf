@@ -66,7 +66,7 @@ namespace coursework.UI.ViewModel
                 }
             });
 
-            Task.Run(GetSuppliers);
+            GetSuppliers();
         }
 
         async Task GetSuppliers()

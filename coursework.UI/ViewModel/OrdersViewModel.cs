@@ -27,6 +27,8 @@ namespace coursework.UI.ViewModel
         Visibility isChief;
         UpdateOrderStatusUseCase updateOrderStatusUseCase;
         IDialogService dialogService;
+        UpdateEmployeeInCartOrderUseCase UpdateEmployeeInCartOrderUseCase;
+        Employee employee;
 
         public ObservableCollection<Order> Orders 
         { 
@@ -64,7 +66,7 @@ namespace coursework.UI.ViewModel
         public ICommand NavigateIngredExpenseCommand { get; set; }
         public IAsyncRelayCommand AddCartOrderCommand { get; set; } 
         
-        public OrdersViewModel(GetOrdersUseCase getOrdersUseCase, GetOrderStatusesUseCase getOrdersStatusesUseCase, FilterOrdersByStatus filterOrdersByStatus, GetOrderCartUseCase getOrderCartUseCase, INavigationService navigationService, UpdateOrderStatusUseCase updateOrderStatusUseCase, IDialogService dialogService)
+        public OrdersViewModel(GetOrdersUseCase getOrdersUseCase, GetOrderStatusesUseCase getOrdersStatusesUseCase, FilterOrdersByStatus filterOrdersByStatus, GetOrderCartUseCase getOrderCartUseCase, INavigationService navigationService, UpdateOrderStatusUseCase updateOrderStatusUseCase, IDialogService dialogService, UpdateEmployeeInCartOrderUseCase updateEmployeeInCartOrderUseCase)
         {
             this.getOrdersUseCase = getOrdersUseCase;
             this.getOrdersStatusesUseCase = getOrdersStatusesUseCase;
@@ -73,6 +75,7 @@ namespace coursework.UI.ViewModel
             this.navigationService = navigationService;
             this.updateOrderStatusUseCase = updateOrderStatusUseCase;
             this.dialogService = dialogService;
+            UpdateEmployeeInCartOrderUseCase = updateEmployeeInCartOrderUseCase;
 
             FilterOrdersCommand = new AsyncRelayCommand(FilterOrders);
             GetOrderCartCommand = new AsyncRelayCommand(GetOrderCart);
@@ -85,6 +88,7 @@ namespace coursework.UI.ViewModel
 
             WeakReferenceMessenger.Default.Register<DashboardEmployeeMessenger>(this, (r, m) =>
             {
+                employee = m.Value;
                 if (m.Value.Position.PositionId == 3)
                 {
                     IsChief = Visibility.Visible;
@@ -95,8 +99,8 @@ namespace coursework.UI.ViewModel
                 }
             });
 
-            Task.Run(GetOrders);
-            Task.Run(GetStatuses);
+            GetOrders();
+            GetStatuses();
         }
 
         async Task GetOrders()
@@ -137,7 +141,7 @@ namespace coursework.UI.ViewModel
         }
         async Task AddCartOrder()
         {
-            if(await updateOrderStatusUseCase.Execute(CurrOrder.Id))
+            if(await updateOrderStatusUseCase.Execute(CurrOrder.Id) && await UpdateEmployeeInCartOrderUseCase.Execute(CurrOrder.Id, employee.Id))
             {
                 Orders.Clear();
                 await GetOrders();

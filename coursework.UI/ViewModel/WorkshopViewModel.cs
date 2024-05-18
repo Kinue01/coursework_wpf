@@ -67,7 +67,7 @@ namespace coursework.UI.ViewModel
                 }
             });
 
-            Task.Run(GetWorkshops);
+            GetWorkshops();
         }
 
         async Task GetWorkshops()

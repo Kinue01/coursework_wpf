@@ -34,7 +34,6 @@ namespace coursework.UI.ViewModel
             NavigateIngredsCommand = new RelayCommand(navigationService.NavigateDashboardTo<IngredsViewModel>);
             AddIngredCommand = new AsyncRelayCommand(AddIngredOnWarehouse);
 
-            //Task.Run(GetIngreds);
             GetIngreds();
         }
 

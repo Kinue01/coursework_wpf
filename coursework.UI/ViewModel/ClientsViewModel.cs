@@ -57,7 +57,7 @@ namespace coursework.UI.ViewModel
             FilterByBirthday = new AsyncRelayCommand(FilterBirthday);
             DeleteClientCommand = new AsyncRelayCommand(DeleteClient);
 
-            Task.Run(GetClients);
+            GetClients();
         }
 
         async Task GetClients()

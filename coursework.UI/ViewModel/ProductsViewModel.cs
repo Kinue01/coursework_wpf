@@ -74,7 +74,6 @@ namespace coursework.UI.ViewModel
                 client = m.Value;
             });
 
-            //Task.Run(GetProds);
             GetProds();
         }
 
