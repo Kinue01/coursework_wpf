@@ -22,7 +22,9 @@
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
 
-            <Image Source="{Binding User.Image}" Width="250" />
+            <Border BorderThickness="0" Background="LightCyan" Width="330" CornerRadius="250" Margin="0 5 0 0">
+                <Image Source="{Binding User.Image}" Width="250" Height="250" />
+            </Border>
 
             <Grid Grid.Column="1">
                 <Grid.RowDefinitions>

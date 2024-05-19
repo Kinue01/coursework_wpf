@@ -215,8 +215,8 @@ namespace coursework.UI
             services.AddSingleton<UVerification>();
             services.AddSingleton<EVerification>();
 
-            services.AddPooledDbContextFactory<KursovaiaContext>(options => options.UseNpgsql("Host=172.20.105.123;Port=5432;Database=practice_9po12_21_16;Username=9po12-21-16;Password=ki9boh3Y"));
-            //services.AddPooledDbContextFactory<KursovaiaContext>(options => options.UseNpgsql("Host=localhost;Port=5432;Database=kursovaia_v3;Username=postgres;Password=Dtkjcbgtl2016"));
+            //services.AddPooledDbContextFactory<KursovaiaContext>(options => options.UseNpgsql("Host=172.20.105.123;Port=5432;Database=practice_9po12_21_16;Username=9po12-21-16;Password=ki9boh3Y"));
+            services.AddPooledDbContextFactory<KursovaiaContext>(options => options.UseNpgsql("Host=localhost;Port=5432;Database=kursovaia_v4;Username=postgres;Password=Dtkjcbgtl2016"));
 
             serviceProvider = services.BuildServiceProvider();
         }

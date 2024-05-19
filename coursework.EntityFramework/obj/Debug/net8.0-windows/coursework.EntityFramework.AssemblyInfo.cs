@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("coursework.EntityFramework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea498d1ad5ac883b6ade553eaa65b2459f3a73ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("coursework.EntityFramework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("coursework.EntityFramework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

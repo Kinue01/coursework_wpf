@@ -6,7 +6,7 @@
              xmlns:local="clr-namespace:coursework.UI.View"
              xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
              mc:Ignorable="d" 
-             d:DesignHeight="450" d:DesignWidth="800">
+             d:DesignHeight="720" d:DesignWidth="1280">
     <Grid>
 
         <Border Background="#212529" CornerRadius="0 0 15 0" Grid.RowSpan="2" />
@@ -21,7 +21,9 @@
                 <RowDefinition Height="*" />
             </Grid.RowDefinitions>
 
-            <Image Source="{Binding User.Image}" Width="250" />
+            <Border BorderThickness="0" Background="LightCyan" Width="330" CornerRadius="250" Margin="0 5 0 0">
+                <Image Source="{Binding User.Image}" Width="250" Height="250" />
+            </Border>
 
             <Grid Grid.Column="1">
                 <Grid.RowDefinitions>
